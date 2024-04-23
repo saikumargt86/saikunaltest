@@ -1,1 +1,2 @@
 apiVersion: kubernted.io/v1
+kind: Deployment
